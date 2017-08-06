@@ -1,5 +1,5 @@
-#使用angular和localStorage实现便签功能
-##实现的功能
+# 使用angular和localStorage实现便签功能
+## 实现的功能
 
 - 新增任务
 - 删除任务
